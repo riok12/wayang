@@ -1,8 +1,8 @@
 # Wayang
 
-a Plugin for puppeteer, that help you do human thing in headless browser such as captcha,
+a Plugin for puppeteer, that help you do human thing in headless browser such as reCaptcha,
 
-`Iam not robot`/`saya bukan robot` button with visual puzzle and many more
+`Iam not robot` button , captcha with visual puzzle and many more
 
 ![logo](http://codebase.id/puppet%20show/logo.png?i=8) *Wayang*
 
