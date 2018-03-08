@@ -4,6 +4,8 @@ a Plugin for puppeteer, that help you do human thing in headless browser such as
 
 `Iam not robot`/`saya bukan robot` button with visual puzzle and many more
 
+[logo]: http://codebase.id:3000/logo.png?keyword=pay&index=4 "logo"
+
 ## Example
 
 ```
