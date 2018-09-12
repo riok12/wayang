@@ -1,6 +1,6 @@
 # Wayang
 
-a Plugin for puppeteer, that help you do human thing in headless browser such as reCaptcha,
+a Plugin for puppeteer, that help you do human thing in headless browser such as by pass reCaptcha,
 
 `Iam not robot` button , captcha with visual puzzle and many more
 
